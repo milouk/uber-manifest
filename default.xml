@@ -2,10 +2,10 @@
 <manifest>
   <remote  name="uu"
            fetch="https://github.com/UBERTC/" />
-  <remote  name="kk"
+  <remote  name="rr"
            fetch="https://github.com/kondors1995/" />
   <default revision="master"
-           remote="uu"
+           remote="rr"
            sync-j="4"
            sync-c="true"
            sync-f="true" />
