@@ -2,8 +2,8 @@
 <manifest>
   <remote  name="uu"
            fetch="https://github.com/UBERTC/" />
-  <remote  name="kk"
-           fetch="https://github.com/kondors1995/" />
+  <remote  name="rr"
+           fetch="https://github.com/milouk/" />
   <default revision="master"
            remote="uu"
            sync-j="8"
