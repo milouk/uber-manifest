@@ -6,7 +6,7 @@
            fetch="https://github.com/milouk/" />
   <default revision="master"
            remote="uu"
-           sync-j="$(nproc --all)"
+           sync-j="8"
            sync-c="true"
            sync-f="true" />
 
